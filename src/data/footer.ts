@@ -4,7 +4,6 @@ export const footerDetails: {
     subheading: string;
     quickLinks: IMenuItem[];
     email: string;
-    telephone: string;
     socials: ISocials;
 } = {
     subheading: "Empowering trading decisions with approved backtested strategies.",
