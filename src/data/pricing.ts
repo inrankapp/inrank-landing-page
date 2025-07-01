@@ -2,36 +2,36 @@ import { IPricing } from "@/types";
 
 export const tiers: IPricing[] = [
     {
-        name: 'Starter',
-        price: 29,
-        features: [
-            'Basic cloud integration',
-            'Up to 5 team members',
-            '20GB storage',
-            'Email support',
+        name: 'Free Trial',
+        price: 0,
+        sp500: [
+            '14 days unlimited access',
+            'All trading strategies',
+            'Real-time signals & notifications',
+            'No credit card required',
         ],
     },
     {
-        name: 'Pro',
-        price: 99,
-        features: [
-            'Advanced cloud integration',
-            'Up to 20 team members',
-            '100GB storage',
-            'Priority email & phone support',
-            'Advanced analytics',
+        name: 'Pro Monthly',
+        price: 40,
+        sp500: [
+            'Full access after trial',
+            'All trading strategies',
+            'Real-time signals & notifications',
+            'Priority support',
+            'Cancel anytime',
         ],
     },
     {
-        name: 'Enterprise',
-        price: 'Custom',
-        features: [
-            'Full cloud integration',
-            'Unlimited team members',
-            'Unlimited storage',
-            '24/7 dedicated support',
-            'Custom solutions',
-            'On-site training',
+        name: 'Pro Yearly',
+        price: 400,
+        sp500: [
+            '12 months full access',
+            'All trading strategies',
+            'Real-time signals & notifications',
+            'Priority support',
+            'Cancel anytime',
+            'Save $80 compared to monthly',
         ],
     },
-]
+];

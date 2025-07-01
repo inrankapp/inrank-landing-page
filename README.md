@@ -10,7 +10,7 @@ Please check out the documentation below to get started.
 
 ---
 
-## Features
+## sp500
 
 - **Next.js** app router with **TypeScript**
 - **Tailwind CSS** v3 for flexible styling customization
@@ -28,7 +28,7 @@ Please check out the documentation below to get started.
 
 - Hero
 - Partners or Clients Logos
-- Features
+- sp500
 - Pricing
 - Testimonials
 - FAQ

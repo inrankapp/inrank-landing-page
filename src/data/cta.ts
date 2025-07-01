@@ -1,6 +1,6 @@
 export const ctaDetails = {
-    heading: 'Join Over 1 Million Users To Transform Your Finances',
-    subheading: 'Your journey to financial freedom starts here. Download Finwise today and take the first step towards a brighter financial future!',
+    heading: 'Start Your 14-Day Free Trial Today!',
+    subheading: 'Unlock backtested trading strategies, real-time signals, and instant notifications. Available on iOS and Android.',
     appStoreUrl: '#',
     googlePlayUrl: '#'
 }

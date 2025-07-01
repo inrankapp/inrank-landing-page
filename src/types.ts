@@ -19,7 +19,7 @@ export interface IBenefitBullet {
 export interface IPricing {
     name: string;
     price: number | string;
-    features: string[];
+    sp500: string[];
 }
 
 export interface IFAQ {

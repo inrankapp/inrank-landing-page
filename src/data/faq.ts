@@ -3,23 +3,23 @@ import { siteDetails } from "./siteDetails";
 
 export const faqs: IFAQ[] = [
     {
-        question: `Is ${siteDetails.siteName} secure?`,
-        answer: 'Absolutely. We use bank-level encryption to protect your data and never store your login information. Plus, our biometric authentication adds an extra layer of security.',
+        question: `Is ${siteDetails.siteName} reliable?`,
+        answer: 'Absolutely. We check the performance of all strategies and intervals every day. You can review every trading action and signal generated over the past year for full transparency and reliability.',
     },
     {
         question: `Can I use ${siteDetails.siteName} on multiple devices?`,
-        answer: 'Absolutely! Your Finwise account syncs seamlessly across all your devices - smartphone, tablet, and computer.',
+        answer: 'Absolutely! Your InRank account syncs seamlessly across all your mobile devices.',
     },
     {
-        question: 'Can I connect all my bank accounts?',
-        answer: `Yes! ${siteDetails.siteName} supports connections with over 10,000 financial institutions worldwide. Simply log in through our secure portal to link your accounts.`
+        question: 'Do you always use the same strategies for each stock?',
+        answer: 'No, we backtest each strategy and interval for every stock individually. Only the top 10 strategies from the past year for each stock are used to generate daily trading signals.',
     },
     {
-        question: 'Do I need any financial expertise to use the investing features?',
-        answer: 'Not at all! Our expert-curated portfolios and educational resources make investing accessible to everyone, regardless of experience level.',
+        question: 'Do I need any trading expertise?',
+        answer: 'No trading expertise is required to use our app! However, we always recommend researching the stocks before making any investment decisions.',
     },
     {
-        question: 'What if I need help using the app?',
-        answer: 'Our dedicated support team is available 24/7 via chat or email. Plus, we offer extensive in-app tutorials and a comprehensive knowledge base to help you make the most of Finwise.'
+        question: "Why don't you have analyst ratings or market sentiments?",
+        answer: 'While those insights can be valuable, InRank focuses exclusively on technical indicators and pure mathematical calculations for unbiased, data-driven signals.'
     }
 ];

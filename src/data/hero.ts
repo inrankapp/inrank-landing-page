@@ -1,5 +1,5 @@
 export const heroDetails = {
-    heading: 'Smart, Secure, Simple Financial Management',
-    subheading: 'From effortless budgeting to real-time investment insights, Finwise puts you in control of your money like never before',
+    heading: 'Customized Strategies and Daily Backtests for S&P 500 Market',
+    subheading: 'We analyze hundreds of strategies across multiple intervals, process them in real-time, and deliver only the most profitable results backed by rigorous backtesting. Only available in mobile devices!',
     centerImageSrc: '/images/hero-mockup.webp',
 }

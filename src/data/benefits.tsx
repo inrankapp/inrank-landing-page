@@ -4,69 +4,69 @@ import { IBenefit } from "@/types"
 
 export const benefits: IBenefit[] = [
     {
-        title: "Smart Budgeting",
-        description: "Take the guesswork out of managing your money. Our AI-powered budgeting tool adapts to your lifestyle and helps you stay on track.",
+        title: "S&P 500 Index",
+        description: "The S&P 500 tracks approximately 80% of the U.S. equity market and represents nearly half of the global stock market capitalization, making it a key benchmark for investors worldwide.",
         bullets: [
             {
-                title: "Intelligent Categorization",
-                description: "Automatically sorts your transactions for crystal-clear insights.",
+                title: "503 Leading U.S. Stocks",
+                description: "Gain exposure to the most influential companies driving the U.S. economy.",
                 icon: <FiBarChart2 size={26} />
             },
             {
-                title: "Customizable Goals",
-                description: "Set and track financial objectives that matter to you.",
+                title: "Outperforming the Index",
+                description: "Our strategies have historically delivered up to 30% higher returns than the S&P 500.",
                 icon: <FiTarget size={26} />
             },
             {
-                title: "Predictive Analysis",
-                description: "Get ahead of your finances with spending forecasts and alerts.",
+                title: "1-Year Actionable Insights",
+                description: "Access a full year of trackable, data-driven trading actions and performance analytics.",
                 icon: <FiTrendingUp size={26} />
             }
         ],
         imageSrc: "/images/mockup-1.webp"
     },
     {
-        title: "Seamless Investing",
-        description: "Start building wealth today, no financial degree required. Finwise makes investing accessible and straightforward.",
+        title: "Daily Backtested Strategies",
+        description: "Access a wide range of advanced trading strategies, each rigorously backtested every single day. Make decisions with confidence, knowing every signal is supported by the latest historical data.",
         bullets: [
             {
-                title: "Micro-Investing",
-                description: "Begin with as little as $1 and watch your money grow.",
-                icon: <FiDollarSign size={26} />
+                title: "Continuous Backtesting",
+                description: "All strategies are automatically re-evaluated daily using the most recent market data.",
+                icon: <FiTrendingUp size={26} />
             },
             {
-                title: "Expert Portfolios",
-                description: "Choose from investment strategies tailored to your risk tolerance.",
-                icon: <FiBriefcase size={26} />
+                title: "Transparent Results",
+                description: "View detailed backtest reports and performance metrics for every strategy.",
+                icon: <FiBarChart2 size={26} />
             },
             {
-                title: "Real-Time Performance",
-                description: "Track your investments with easy-to-understand metrics and visuals.",
-                icon: <FiPieChart size={26} />
+                title: "Data-Driven Confidence",
+                description: "Rely on signals and notifications that are always based on up-to-date, proven results.",
+                icon: <FiTarget size={26} />
             }
         ],
         imageSrc: "/images/mockup-2.webp"
     },
     {
-        title: "Bank-Grade Security",
-        description: "Your financial data deserves the best protection. Rest easy knowing Finwise employs cutting-edge security measures.",
+        title: "Actionable Insights, Instantly",
+        description: "Receive real-time signals and notifications the moment a strategy triggers. Stay ahead of the market with insights you can act on immediately.",
         bullets: [
             {
-                title: "Military-Grade Encryption",
-                description: "Your information is safeguarded with the highest level of encryption.",
-                icon: <FiLock size={26} />
+                title: "Real-Time Alerts",
+                description: "Get notified instantly when a strategy meets your criteria.",
+                icon: <FiPieChart size={26} />
             },
             {
-                title: "Biometric Authentication",
-                description: "Access your account securely with fingerprint or facial recognition.",
+                title: "Customizable Filters",
+                description: "Focus on the strategies and assets that matter most to you.",
+                icon: <FiBriefcase size={26} />
+            },
+            {
+                title: "Mobile-First Experience",
+                description: "Access all features and insights seamlessly on iOS and Android.",
                 icon: <FiUser size={26} />
-            },
-            {
-                title: "Real-Time Fraud Detection",
-                description: "Our system constantly monitors for suspicious activity to keep your money safe.",
-                icon: <FiShield size={26} />
             }
         ],
-        imageSrc: "/images/mockup-1.webp"
-    },
+        imageSrc: "/images/mockup-3.webp"
+    }
 ]

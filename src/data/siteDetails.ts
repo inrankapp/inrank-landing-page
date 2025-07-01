@@ -1,9 +1,9 @@
 export const siteDetails = {
-    siteName: 'Finwise',
-    siteUrl: 'https://finwise-omega.vercel.app/',
+    siteName: 'Inrank',
+    siteUrl: 'https://www.inrank.app/',
     metadata: {
-        title: 'Finwise - Next.js and Tailwind CSS Landing Page Template',
-        description: 'Finwise empowers businesses with cutting-edge technology solutions to drive success and efficiency.',
+        title: 'InRank App - Backtedted Approved Strategies, Real-Time Signals & Notifications',
+        description: 'InRank is a mobile app that provides backtested trading strategies, real-time signals, and notifications for traders. It analyzes hundreds of strategies across multiple intervals, processes them in real-time, and delivers only the most profitable results backed by rigorous backtesting.',
     },
     language: 'en-us',
     locale: 'en-US',
